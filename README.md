@@ -1,6 +1,7 @@
 # Pesquisausuariogithub
+![image](https://github.com/deiacristina/pesquisaUsuarioGithub/assets/81380898/d64b9f96-92cb-446e-a05f-0a2c128c4c77)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+Este projeto foi gerado com [Angular CLI] (https://github.com/angular/angular-cli) versão 16.0.2.
 
 ## Development server
 
